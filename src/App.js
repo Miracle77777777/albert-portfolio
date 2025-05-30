@@ -186,10 +186,10 @@ const App = () => {
                 description: 'Responsive web design and styling'
               },
               { 
-                name: 'Problem Solving', 
-                level: 85, 
+                name: 'Java Script', 
+                level: 50, 
                 icon: User,
-                description: 'Analytical thinking from sales experience'
+                description: 'interactive and dynamic web applications'
               }
             ].map((skill, index) => (
               <motion.div
