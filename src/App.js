@@ -188,7 +188,7 @@ const App = () => {
               { 
                 name: 'Java Script', 
                 level: 50, 
-                icon: User,
+                icon: code,
                 description: 'interactive and dynamic web applications'
               }
             ].map((skill, index) => (
